@@ -1,0 +1,78 @@
+html, body {
+    position: relative;
+    height: 100%;
+}
+
+body {
+    background: #eee;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    color: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    background: #eae9e8;
+    position: relative;
+    color: #777373;
+}
+
+#header .logo {
+    width: 168px;
+    position: absolute;
+    top: 50%;
+    transform: translate(0%, -50%);
+}
+
+#header button .icon-bar {
+    background: #ff2e64;
+}
+
+#header a {
+    color: #777373;
+    font-weight: bold;
+    padding: 20px 0;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+#header .nav li a {
+    padding: 20px 10px;
+    color: #777373;
+}
+
+#header .nav li a:hover {
+    background: transparent;
+    color: #f85e63;
+}
+
+/*.swiper-container {*/
+    /*position: relative;*/
+    /*height: 900px;*/
+/*}*/
+/*.swiper-container img{*/
+    /*width: 100%;*/
+
+/*}*/
+/*.swiper-slide {*/
+    /*font-size: 18px;*/
+/*}*/
+
+@media (min-width: 768px) {
+    #header .nav li a.active {
+        border-bottom: 3px solid #f85e63;
+    }
+
+    .main-nav li {
+        margin: 0 0 0 30px;
+        display: inline-block;
+    }
+}
+
+@media (max-width: 768px) {
+    #header .navbar-header {
+        position: relative;
+    }
+}
+
