@@ -5,16 +5,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
-    <link rel="short cut icon" href="img/favicon_0.ico" type="image/vnd.microsoft.icon">
+    <link rel="short cut icon" href="images/favicon_0.ico" type="image/vnd.microsoft.icon">
     <title>VoyageOne</title>
 
     <!-- Bootstrap -->
     <link rel="stylesheet" href="css/bootstrap.css">
 
     <link rel="stylesheet" href="css/swiper-4.1.0.min.css">
-    <link rel="stylesheet" href="css/revolution.css">
-    <link rel="stylesheet" href="css/style.css">
+    <!--revolution slider-->
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css">
 
+    <link rel="stylesheet" href="css/style.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -22,6 +25,11 @@
     <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
     <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery-3.2.1.js"></script>
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js"></script>
 </head>
 <body>
 <div id="wrapper">
@@ -40,7 +48,7 @@
                                 <span class="icon-bar"></span>
                             </button>
                             <!--logo-->
-                            <strong class="logo"><a><img src="img/vo_logo.svg" alt="VoyageOne"> </a></strong>
+                            <strong class="logo"><a><img src="images/vo_logo.svg" alt="VoyageOne"> </a></strong>
                         </div>
                         <!--导航-->
                         <div class="collapse navbar-collapse main-nav" id="bs-1">
@@ -58,98 +66,100 @@
         </div>
     </header>
     <div class="main">
-        <!--slider-->
-        <div class="tp-banner-container" style="overflow: hidden">
-            <div class="tp-banner" >
-                <ul>
-                    <!-- SLIDE  -->
-                    <li  data-transition="slideleft" data-slotamount="14">
-                        <!-- MAIN IMAGE -->
-                        <img src="img/banner.png" alt="Rev Full">
-                        <div class="caption sfb" data-x="693" data-y="75" data-speed="700" data-start="0"data-easing="easeOutBack">
-                            <img src="images/mobile.png" alt=""/>
-                        </div>
+        <div id="rev_slider_1" class="rev_slider" data-version="5.4.4" style="display:none">
 
-                        <div class="tp-caption slider-text-title sft str" data-x="20" data-y="150" data-speed="300" data-start="800" data-easing="easeOutCubic" data-end="6000" data-endspeed="500" style="font-size:24px">标题1</div>
+            <ul>
+                <!-- MINIMUM SLIDE STRUCTURE -->
+                <li data-transition="fade">
 
+                    <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                    <img src="images/banner.png" alt="Sky" class="rev-slidebg">
+                    <!-- BEGIN BASIC TEXT LAYER -->
+                    <!--开始、结束动画-->
+                    <div class="tp-caption tp-resizeme largewhitebg"
 
-                        <div class="tp-caption slider-text-description sft str"  data-x="20" data-y="200" data-start="1000" data-easing="easeOutBack" data-end="4500" data-endspeed="500">
-                            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,<br />
-                            lorem quis bibendum auctor, nisi elit consequat ipsum, nec <br />
-                            sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate
-                        </div>
-                        <div class="tp-caption slider-text-description sft str"  data-x="20" data-y="280" data-start="1500" data-easing="easeOutBack" data-end="5000" data-endspeed="500">
-                            <a href="#" class="button btn-flat">More Info</a>
-                        </div>
-                    </li>
-                    <!-- SLIDE  -->
-                    <li data-transition="boxslide" data-slotamount="7" data-masterspeed="300" >
-                        <!-- MAIN IMAGE -->
-                        <img src="img/banner1.jpg"  alt="darkblurbg"   data-fullwidthcentering="on">
-                        <!-- LAYERS -->
-                        <div class="tp-caption lft stb stl"
-                             data-x="650"
-                             data-y="93"
-                             data-speed="500"
-                             data-start="500"
-                             data-easing="easeOutExpo" data-end="6000" data-endspeed="500"><img src="images/imac.png" alt="Image 1"></div>
+                         data-frames='[{"delay": 0, "speed": 300, "from": "opacity: 0", "to": "opacity: 1"},
+                  {"delay": "wait", "speed": 300, "to": "opacity: 0"}]'
 
-                        <div class="tp-caption lfb stb stl"
-                             data-x="616"
-                             data-y="194"
-                             data-speed="500"
-                             data-start="700"
-                             data-easing="easeOutExpo" data-end="6000" data-endspeed="500"><img src="images/ipad.png" alt="Image 1"></div>
+                         data-x="center"
+                         data-y="center"
+                         data-hoffset="0"
+                         data-voffset="0"
+                         data-width="['auto']"
+                         data-height="['auto']"
 
-                        <div class="tp-caption lfr stb stl"
-                             data-x="751"
-                             data-y="290"
-                             data-speed="1000"
-                             data-start="1000"
-                             data-easing="easeOutExpo" data-end="6000" data-endspeed="500"><img src="images/iphone.png" alt="Image 1"></div>
+                    >Caption Text</div><!-- END BASIC TEXT LAYER -->
+                </li>
 
-                        <div class="tp-caption slider-text-title sft str"
-                             data-x="20"
-                             data-y="150"
-                             data-speed="300"
-                             data-start="800"
-                             data-easing="easeOutCubic" data-end="6000" data-endspeed="500" style="font-size:24px">标题2</div>
+                <!-- MINIMUM SLIDE STRUCTURE -->
+                <li data-transition="fade">
 
+                    <!-- SLIDE'S MAIN BACKGROUND IMAGE -->
+                    <img src="images/banner.png" alt="Ocean" class="rev-slidebg">
 
-                        <div class="tp-caption slider-text-description sft str"  data-x="20" data-y="200" data-start="1000" data-easing="easeOutBack" data-end="4500" data-endspeed="500">
-                            Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin,<br />
-                            lorem quis bibendum auctor, nisi elit consequat ipsum, nec <br />
-                            sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate
-                        </div>
-                        <div class="tp-caption slider-text-description sft str"  data-x="20" data-y="280" data-start="1500" data-easing="easeOutBack" data-end="5000" data-endspeed="500">
-                            <a href="#" class="button btn-flat">More Info</a>
-                        </div>
-                    </li>
-                </ul>
-                <div class="tp-bannertimer"></div>
-            </div>
+                </li>
+
+            </ul>
+            <!-- END MAIN SLIDE LIST -->
+
         </div>
     </div>
 </div>
 
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery-3.2.1.js"></script>
+
 <!-- Include all compiled plugins (below), or include individual files as needed -->
 <script src="js/bootstrap.js"></script>
-<script src="js/swiper-4.1.0.min.js"></script>
-<script src="js/jquery.themepunch.revolution.min.js"></script>
-<script src="js/jquery.themepunch.plugins.min.js"></script>
-<script>
-    $(function() {
-        jQuery('.tp-banner').revolution({
-            delay: 9000,
-            startwidth: 1920,
-            startheight: 900,
-            hideThumbs: 10,
-            fullWidth: "on",
-            forceFullWidth: "on"
+<!--<script src="js/swiper-4.1.0.min.js"></script>-->
+<script type="text/javascript">
+
+    /* https://learn.jquery.com/using-jquery-core/document-ready/ */
+    jQuery(document).ready(function() {
+
+        /* initialize the slider based on the Slider's ID attribute */
+        jQuery('#rev_slider_1').show().revolution({
+
+            /* options are 'auto', 'fullwidth' or 'fullscreen' */
+            sliderLayout: 'auto',
+            gridwidth: 1920,
+            gridheight:900,
+            /* basic navigation arrows and bullets */
+            navigation: {
+
+                arrows: {
+
+                    enable: true,
+                    style: 'hesperiden',
+                    tmp: '',
+                    rtl: false,
+                    hide_onleave: false,
+                    hide_onmobile: true,
+                    hide_under: 0,
+                    hide_over: 9999,
+                    hide_delay: 200,
+                    hide_delay_mobile: 1200,
+
+                    left: {
+                        container: 'slider',
+                        h_align: 'left',
+                        v_align: 'center',
+                        h_offset: 200,
+                        v_offset: 0
+                    },
+
+                    right: {
+                        container: 'slider',
+                        h_align: 'right',
+                        v_align: 'center',
+                        h_offset: 200,
+                        v_offset: 0
+                    }
+
+                }
+
+            },
         });
     });
+
 </script>
 </body>
 </html>
