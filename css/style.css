@@ -47,17 +47,110 @@ body {
     color: #f85e63;
 }
 
-/*.swiper-container {*/
-    /*position: relative;*/
-    /*height: 900px;*/
-/*}*/
-/*.swiper-container img{*/
-    /*width: 100%;*/
+.main .section1 {
+    margin: 120px auto;
+    position: relative;
+}
 
-/*}*/
-/*.swiper-slide {*/
-    /*font-size: 18px;*/
-/*}*/
+.main .section1 .pic {
+    position: relative;
+}
+
+.main .section1-bg img {
+    max-width: 100%;
+    height: auto;
+}
+
+.main .section1 .pic img {
+    max-width: 100%;
+    height: auto;
+}
+
+.section1-content {
+    /*position: absolute;*/
+    /*top: 25%;*/
+    /*left: 0;*/
+    /*width: 100%;*/
+    position: relative;
+    margin: 0 auto;
+    top: 26%;
+}
+
+
+.index {
+    color: #4E4949;
+    font-size: 48px;
+    opacity: 0.1;
+}
+
+.detail {
+    margin-left: 32px;
+    margin-top: -27px;
+}
+
+.title {
+    font-size: 36px;
+    color: #4E4949;
+}
+
+.line {
+    background: #F85E63;
+    width: 40px;
+    height: 4px;
+    margin-top: 40px;
+}
+
+.content {
+    font-size: 12px;
+    color: #807876;
+    line-height: 20px;
+    padding: 40px 0;
+    width: 51%;
+    letter-spacing: .1em;
+}
+
+.more {
+    padding: 10px 20px;
+    background: #F85E63;
+    border-radius: 20px;
+    color: #fff;
+    width: 150px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+@media (max-width: 1200px) {
+    .content {
+        width: 80%;
+    }
+
+}
+@media (min-width: 1200px) {
+    .main .section1 {
+        margin: 60px auto;
+        position: relative;
+        height: 770px;
+    }
+}
+@media (max-width: 1200px) and (min-width: 992px){
+    .main .section1 {
+        height: 670px;
+    }
+}
+@media (max-width: 992px) {
+    .main .section1 {
+        margin: 60px auto;
+    }
+
+    .section1-content {
+        top: 0;
+    }
+
+    .main .section1 .pic {
+        margin-left: 32px;
+    }
+
+}
 
 @media (min-width: 768px) {
     #header .nav li a.active {
@@ -68,11 +161,30 @@ body {
         margin: 0 0 0 30px;
         display: inline-block;
     }
+    .section1-left{
+        width: 38%;
+        padding: 0;
+    }
+
+    .section1-right{
+        width: 62%;
+        padding: 0;
+    }
+
 }
 
 @media (max-width: 768px) {
     #header .navbar-header {
         position: relative;
     }
+
+    .content {
+        width: 100%;
+    }
+
+    .section1-content {
+        padding-right: 32px;
+    }
+
 }
 

@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c8e0cd5-d77a-4f28-9155-959d761106b7" name="Default" comment="" />
+    <list default="true" id="2c8e0cd5-d77a-4f28-9155-959d761106b7" name="Default" comment="modify">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/css/layers.css" afterPath="$PROJECT_DIR$/css/layers.css" />
+      <change beforePath="$PROJECT_DIR$/css/settings.css" afterPath="$PROJECT_DIR$/css/settings.css" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/images/更新 updata.png" afterPath="$PROJECT_DIR$/images/updata.png" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js" />
+      <change beforePath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/js/jquery.themepunch.tools.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/layers.css" afterPath="$PROJECT_DIR$/revolution/css/layers.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/custom.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/custom.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/dione.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/dione.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/erinyen.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/erinyen.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/gyges.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/gyges.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/hades.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/hades.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/hebe.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/hebe.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/hephaistos.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/hephaistos.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/hermes.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/hermes.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/hesperiden.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/hesperiden.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/persephone.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/persephone.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/uranus.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/uranus.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/navigation-skins/zeus.css" afterPath="$PROJECT_DIR$/revolution/css/navigation-skins/zeus.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/settings-source.css" afterPath="$PROJECT_DIR$/revolution/css/settings-source.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/settings.css" afterPath="$PROJECT_DIR$/revolution/css/settings.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/css/tp-color-picker.css" afterPath="$PROJECT_DIR$/revolution/css/tp-color-picker.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/css/helper.css" afterPath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/css/helper.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" afterPath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
+      <change beforePath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" afterPath="$PROJECT_DIR$/revolution/fonts/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.actions.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.actions.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.carousel.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.carousel.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.kenburn.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.kenburn.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.layeranimation.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.layeranimation.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.migration.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.migration.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.navigation.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.navigation.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.parallax.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.parallax.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.slideanims.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.slideanims.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.video.min.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/revolution.extension.video.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.actions.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.actions.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.carousel.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.carousel.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.kenburn.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.kenburn.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.layeranimation.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.layeranimation.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.migration.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.migration.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.navigation.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.navigation.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.parallax.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.parallax.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.slideanims.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.slideanims.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.video.js" afterPath="$PROJECT_DIR$/revolution/js/extensions/source/revolution.extension.video.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/jquery.themepunch.revolution.min.js" afterPath="$PROJECT_DIR$/revolution/js/jquery.themepunch.revolution.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/revolution/js/jquery.themepunch.tools.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/source/jquery.themepunch.revolution.js" afterPath="$PROJECT_DIR$/revolution/js/source/jquery.themepunch.revolution.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/source/jquery.themepunch.tools.min.js" afterPath="$PROJECT_DIR$/revolution/js/source/jquery.themepunch.tools.min.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/source/tp-color-picker.js" afterPath="$PROJECT_DIR$/revolution/js/source/tp-color-picker.js" />
+      <change beforePath="$PROJECT_DIR$/revolution/js/tp-color-picker.min.js" afterPath="$PROJECT_DIR$/revolution/js/tp-color-picker.min.js" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,24 +70,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="70" column="6" lean-forward="false" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+            <state relative-caret-position="62">
+              <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
               <folding>
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="revolution.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/revolution.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="1112" column="0" lean-forward="false" selection-start-line="1112" selection-start-column="0" selection-end-line="1112" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -42,8 +86,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="399">
+              <caret line="165" column="19" lean-forward="true" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -64,14 +108,18 @@
       <find>background</find>
       <find>large_right</find>
       <find>images</find>
+      <find>swiper</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/revolution.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -82,10 +130,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="850" />
-    <option name="y" value="11" />
-    <option name="width" value="1196" />
-    <option name="height" value="1056" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -102,28 +152,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="vo-cn-t" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vo-cn-t" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vo-cn-t" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vo-cn-t" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vo-cn-t" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vo-cn-t" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="vo-cn-IT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vo-cn-IT" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -137,11 +177,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="E:\myGit\vo-cn-t\img" />
       <recent name="E:\myGit\vo-cn-t" />
       <recent name="E:\myGit\vo-cn-t\css" />
-      <recent name="E:\myGit\vo-cn-t\js" />
-      <recent name="E:\myGit\vo-cn-t\fonts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,23 +212,35 @@
       <workItem from="1517811343335" duration="10080000" />
       <workItem from="1517823308914" duration="2105000" />
       <workItem from="1517832607460" duration="3807000" />
+      <workItem from="1517842138612" duration="613000" />
+      <workItem from="1517843630881" duration="2198000" />
+      <workItem from="1517852329746" duration="2983000" />
+      <workItem from="1517933147134" duration="5630000" />
     </task>
+    <task id="LOCAL-00001" summary="modify">
+      <created>1517854521982</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517854521982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15992000" />
+    <option name="totallyTimeSpent" value="27416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="850" y="11" width="1196" height="1056" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40932643" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16490486" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32904148" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -196,7 +248,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914925" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -206,6 +258,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="modify" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -213,13 +269,80 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/revolution.css" />
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/revolution.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1820">
           <caret line="70" column="14" lean-forward="true" selection-start-line="70" selection-start-column="14" selection-end-line="70" selection-end-column="14" />
           <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -237,10 +360,11 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -276,7 +400,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/img/vo_logo.svg">
+    <entry file="file://$PROJECT_DIR$/images/vo_logo.svg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -300,11 +424,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/revolution.css" />
     <entry file="file://$PROJECT_DIR$/js/jquery.themepunch.revolution.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.themepunch.tools.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layers.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -314,29 +452,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/revolution.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="1112" column="0" lean-forward="false" selection-start-line="1112" selection-start-column="0" selection-end-line="1112" selection-end-column="0" />
+        <state relative-caret-position="399">
+          <caret line="165" column="19" lean-forward="true" selection-start-line="165" selection-start-column="19" selection-end-line="165" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="70" column="6" lean-forward="false" selection-start-line="70" selection-start-column="6" selection-end-line="70" selection-end-column="6" />
+        <state relative-caret-position="62">
+          <caret line="35" column="34" lean-forward="false" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
           <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#div#3;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
